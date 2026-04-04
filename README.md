@@ -96,13 +96,10 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=feetyer&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=feetyer&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=feetyer&theme=github_dark&utcOffset=1)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=feetyer&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=feetyer&theme=github_dark)
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=feetyer&theme=onedark&column=-1&margin-w=10" />
-</p>
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=feetyer&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true)](https://github.com/feetyer)
 
 </div>
 
