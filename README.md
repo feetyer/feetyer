@@ -1,29 +1,53 @@
-<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey Everyone , I'm Fatima Ezzahrae</h2>
+<h2 align="center">
+  ✨ Hi, I’m <span style="color:#ff8fab;"><b>Fatima Ezzahrae</b></span> 💻
+</h2>
 
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto,sans-serif&size=40&pause=1000&color=40c463&center=true&vCenter=true&random=false&width=1200&lines=%F0%9F%92%BB+Full+Stack+Developer;+%F0%9F%92%BB+Building+Smart+Industrial+Applications;+%F0%9F%92%BB+Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=36&pause=1200&color=FF8FAB&center=true&vCenter=true&width=850&lines=💻+Full-Stack+Developer;⚙️+Smart+Industrial+Applications;🚀+Always+Learning+%26+Growing)](https://git.io/typing-svg)
+
 </p>
 
-<img align="right" alt="Coding" width="300" src="https://i.postimg.cc/L8905M0z/Chat-GPT-Image-4-avr-2026-16-08-10-removebg-preview.png">
 
-- 💻 Building web & industrial applications
-- 📊 Specialized in KPI dashboards & monitoring systems
-- 🏭 Experience in industrial environment (LEONI)
-- 🛠️ Passionate about solving real-world problems
-- 👥 Open to collaboration
-- 🚀 Always learning & improving
 
-<div align="start">
+<img align="right" alt="Coding" width="320" src="https://i.postimg.cc/L8905M0z/Chat-GPT-Image-4-avr-2026-16-08-10-removebg-preview.png"/>
 
-![](https://komarev.com/ghpvc/?username=feetyer&style=flat&color=brightgreen)
+---
+
+### About Me
+
+- 💻 Building web & industrial applications  
+- 📊 KPI dashboards & monitoring systems  
+- 🏭 Industrial environment experience (LEONI)  
+- ⚙️ Solving real-world problems  
+- 🤝 Open to collaboration  
+- 🚀 Always improving  
+
+---
+
+<div align="left">
+
+![](https://komarev.com/ghpvc/?username=feetyer&style=flat&color=ff8fab)
 
 </div>
 
 <div align="start">
   
-<a href="mailto:fatimazahraelhansali@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=Gmail&logoColor=white"></a>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-ezzahrae-el-hansali/) 
+<a href="mailto:fatemezahraelhansali@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=Gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/fatima-ezzahrae-el-hansali-b8b258377">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://t.me/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0.svg?logo=telegram&logoColor=white">
+</a>
+
+<a href="https://discord.com/users/YOUR_DISCORD_ID">
+  <img src="https://img.shields.io/badge/Discord-5865F2.svg?logo=discord&logoColor=white">
+</a>
 </div>
 
 ---
