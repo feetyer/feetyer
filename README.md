@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto,sans-serif&size=40&pause=1000&color=40c463&center=true&vCenter=true&random=false&width=1200&lines=%F0%9F%92%BB+Full+Stack+Developer;+%F0%9F%92%BB+Building+Smart+Industrial+Applications;+%F0%9F%92%BB+Always+Learning+New+Things)](https://git.io/typing-svg)
 </p>
 
-<img align="right" alt="Coding" width="300" src="https://github.com/feetyer/feetyer/blob/main/picture.png?raw=true">
+<img align="right" alt="Coding" width="300" src="https://i.postimg.cc/28J0xBHk/picture.png">
 
 - 💻 Building web & industrial applications
 - 📊 Specialized in KPI dashboards & monitoring systems
