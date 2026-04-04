@@ -1,5 +1,5 @@
 <h2 align="center">
-  ✨ Hi, I’m <span style="color:#ff8fab;"><b>Fatima Ezzahrae</b></span> 💻
+   Hi, I’m <span style="color:#ff8fab;"><b>Fatima Ezzahrae</b></span> 👋🏻
 </h2>
 
 <p align="center">
