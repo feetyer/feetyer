@@ -20,7 +20,7 @@
 - 📊 KPI dashboards & monitoring systems  
 - 🏭 Industrial environment experience (LEONI)  
 - ⚙️ Solving real-world problems  
-- 🤝 Open to collaboration  
+- 🤝🏻 Open to collaboration  
 - 🚀 Always improving  
 
 
